@@ -35,7 +35,7 @@ def filters():
     print('-'*40)
     return city, month, day
 
-# Used Template From Practice Problem 3
+# Used Template From Project details page 
 
 def load_data(city, month, day):
     df=pd.read_csv(CD[city])
