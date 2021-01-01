@@ -6,6 +6,7 @@ CD= { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+# Menu options and inputs 
 def filters():
 
     print('Hello! Welcome to US bikeshare dataset!')
