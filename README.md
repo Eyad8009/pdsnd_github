@@ -1,8 +1,15 @@
+
+Date created
 Jan 1st 2021
 
+Project Title
 Bike Share Dataset Analysis
 
-A program for any user to interact with to pull information and insights from the Bike Share Dataset
+Description
+ program for any user to interact with to pull information and insights from the Bike Share Dataset
 
+Files used
+bikeshare.py and its csv files
 
-Any changes are welcomed to this project , pull requests will be reviewed quickly 
+Credits
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
